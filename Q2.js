@@ -16,7 +16,6 @@ function pairNumber(str,target) {
         }
     }
 
-    console.log(results)
     return results
 	
 }
